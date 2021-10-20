@@ -7,7 +7,12 @@ module.exports = {
   themeConfig: {
     // 导航栏
     nav: [
-      { text: 'GitHub', link: 'https://github.com/123flight', target:'_self', rel:'' },
+      { 
+        text: 'GitHub', 
+        link: 'https://github.com/123flight', 
+        target:'_self', 
+        rel:'' 
+      },
     ],
     // 侧边栏
     sidebar: [
