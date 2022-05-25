@@ -5,7 +5,6 @@ module.exports = {
   description: 'Just playing around',
 
   themeConfig: {
-    sidebarDepth: 1,
     // 导航栏
     nav: [
       { 

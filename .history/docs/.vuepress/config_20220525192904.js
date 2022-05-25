@@ -5,7 +5,6 @@ module.exports = {
   description: 'Just playing around',
 
   themeConfig: {
-    sidebarDepth: 1,
     // 导航栏
     nav: [
       { 
@@ -32,7 +31,7 @@ module.exports = {
           children: ['question/关于input 类型为 file 时不能选择相同文件']
         }
       ],
-    },
+    }
     search: true,
     searchMaxSuggestoins: 10,
     //最后更新的时间
